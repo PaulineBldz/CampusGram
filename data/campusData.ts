@@ -41,6 +41,11 @@ export const stories: Story[] = [
     username: 'Kyla',
     avatar: 'https://i.pinimg.com/736x/58/d3/b2/58d3b2e0d310da82a02b83cb8d710cd6.jpg',
   },
+  {
+    id: 'story-5',
+    username: 'Christian',
+    avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMKfXuBahMyF8qNDT20XpMkPRHEkuMxuBTlLxDbsmG7y97P2Sk2SpY8MX-mv8UZMxwpnsjMduj-yQJHD-K5wZi3YiwKh8lPdIWtzxzCAmzQ&s=10',
+  },
 ];
 
 export const posts: Post[] = [
